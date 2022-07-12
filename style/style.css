@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+
+aside{
+  float: left;
+  width: 20%;
+  height: 500px;
+  border: 2px solid black;
+}
+
+.main-section {
+  float: left;
+  width: 50%;
+  height: 500px;
+  border: 2px solid black;
+}
+
+.right-section {
+  float: left;
+  width: 30%;
+  height: 500px;
+  border: 2px solid black;
+}
+
+
+aside > a {
+  display: block;
+}
+
+.mid-bottom {
+  float: right;
+  width: 54%;
+}
+
+.wonder {
+  float: right;
+  width: 25%;
+  height: 400px;
+}
+
+
+ .one {
+  float: right;
+  width: 50%;
+}
+
+.two {
+  float: right;
+  width: 50%;
+}
